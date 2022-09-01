@@ -1,0 +1,2 @@
+# student_program
+这是一个使用c语言在Linux上搭建的学生管理系统
